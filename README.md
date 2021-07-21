@@ -2,6 +2,6 @@
 
 ## Installation du Projet Git
 
-``
-git clone 
-``
+```
+git clone https://github.com/lawrenceterpin/projet-git.git
+```
