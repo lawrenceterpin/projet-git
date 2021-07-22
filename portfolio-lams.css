@@ -1,0 +1,114 @@
+/* .html, body {
+    margin:0;
+    background-color: black;
+    height:100%;
+    width:100%;
+  } */
+
+  /* .ul { 
+    padding: 0; 
+} */
+
+/* li {
+    list-style: none;
+} */
+
+.header {
+    margin:0;
+    background-color: black;
+    height:100%;
+    width:100%; 
+    border:5px solid orange;
+  }
+  .footer_div {
+      margin:0;
+      background-color: black;
+      height:100%;
+      width:100%; 
+      /* border:5px solid orange;  */
+  }
+  
+  .img_banner {
+      width: 150px;
+      height: 150px;
+    
+    }
+  
+  
+    .footer {
+      position: relative;
+      margin:0;
+      background-color: black;
+       bottom: 0px; 
+       right: 0px;  
+       display: flex; 
+       align-items: center; 
+       border:5px solid orange;
+    }
+  
+  
+    .bordure {
+      margin: 10px;
+      border:5px solid purple;
+      /* padding: 10px; */
+      border-radius: 10px;
+     
+  }
+  
+  
+  
+  .bordure_div {
+    margin: 10px;
+    border:5px solid purple;
+    /* padding: 10px; */
+    border-radius: 10px;
+    box-sizing: border-box;
+    display: flex;
+  }
+  .flex-container-row {
+    display: flex;
+    /* background-color: DodgerBlue; */
+  
+  }
+  
+  .flex-container-row > div {
+    background-color: orangered;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+  
+  .col-10 {
+    flex: 0 0 auto;
+    width: 83.33333333%;
+  }
+  
+  .flex-container-column {
+    display: flex;
+    flex-direction: column;
+    background-color: DodgerBlue;
+  }
+  
+  .flex-container-column > div {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  
+    /* .footer_h1 {
+      color: white;
+    } */
+  
+    /* Creation de 3 colonnes + declaration dans index.html en col-4 */
+  .col-4 { width: 33%;
+  } 
+  
+  
+  .navbar-nav>li>a {
+    color: #fff
+  }
+  
