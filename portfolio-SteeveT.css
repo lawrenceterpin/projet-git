@@ -1,0 +1,15 @@
+body {
+    background-color:darkkhaki; text-align: center;
+}
+
+article {
+    margin: 0 auto; width: 420px;
+}
+
+p {
+    font-style: italic; font-family:fantasy;
+}
+
+strong {
+    color: darkred;
+}
