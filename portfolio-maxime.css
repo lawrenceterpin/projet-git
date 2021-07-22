@@ -15,12 +15,19 @@ body{
 }
 
 .relative{
+    
     position: relative;
+  width: 400px;
+  height: 150px;
+  
+  left: 450px;
 }
 .absolute{
     position: absolute;
-    right: 0rem;
-    top: 0rem;
-    left: 0rem;
-    bottom: 0rem;
+  top: 30px;
+  right: 100px;
+  width: 200px;
+  height: 100px;
+  
+}
 }
